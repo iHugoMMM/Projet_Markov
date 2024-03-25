@@ -11,7 +11,7 @@ for k in range(2,n):
     m = 10000 #number of repeats 
     plot = np.empty([1,1])
     
-     
+
     for j in range(1,k):    
         passed = 0
         for i in range (0,m): #multiple runs
