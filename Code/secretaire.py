@@ -163,7 +163,6 @@ import random
 import numpy as np 
 import pandas as pd
 import matplotlib.pyplot as plt
-from tqdm.notebook import tqdm
 
 # %% PROCEDURE PAR MONTE CARLO
 BEST_SCORE = 100
